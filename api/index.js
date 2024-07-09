@@ -10,4 +10,3 @@ app.use(cors())
 app.use("/", userRoutes)
 
 app.listen(8800)
-
